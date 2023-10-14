@@ -4,7 +4,7 @@ import { products } from "../utils/products";
 import SliderHome from "../components/Slider";
 
 const Home = () => {
-  const newArrivalData = products.filter((item) => item.category === "mobile");
+  const newArrivalData = products.filter((item) => item.category === "display");
   return (
     <Fragment>
       <SliderHome />

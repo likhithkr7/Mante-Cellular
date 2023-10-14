@@ -5,10 +5,11 @@ import SubSection from "../components/SubSection";
 
 const ProductDetails = () => {
   var { id } = useParams();
-  const newArrivalData = products.filter((item) => item.category === "mobile");
+  const newArrivalData = products.filter((item) => item.category === id);
+  const title = newArrivalData.at(0).productName;
   return (
     <Fragment>
-      <SubSection title={id} bgColor="white" productItems={newArrivalData} />
+      <SubSection title={title} bgColor="white" productItems={newArrivalData} />
     </Fragment>
   );
 };
