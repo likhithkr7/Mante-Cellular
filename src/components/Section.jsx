@@ -1,6 +1,7 @@
 import { Container, Row } from "react-bootstrap"
 import Product from "./Product/Product"
 
+
 const Section = ({ title, bgColor , productItems, addToCart }) => {
 return (
     <section style={{ background:bgColor }}> 
