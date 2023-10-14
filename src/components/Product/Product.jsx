@@ -37,9 +37,6 @@ const Product = ({ title, productItem, addToCart }) => {
       />
       <div className="product-details" style={{ textAlign: "center" }}>
         <h3 onClick={() => handelClick()}>{productItem.productName}</h3>
-        <div className="price">
-          <h4>${productItem.price}</h4>
-        </div>
       </div>
     </Col>
   );
