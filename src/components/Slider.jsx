@@ -27,6 +27,7 @@ const SliderHome = () => {
                 title={value.title}
                 cover={value.cover}
                 desc={value.desc}
+                note={value.note}
               />
             );
           })}

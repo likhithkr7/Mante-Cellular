@@ -37,6 +37,22 @@ const Product = ({ title, productItem, addToCart }) => {
       />
       <div className="product-details" style={{ textAlign: "center" }}>
         <h3 onClick={() => handelClick()}>{productItem.productName}</h3>
+        <button
+          onClick={() => handelClick()}
+          style={{
+            backgroundColor: "#04AA6D",
+            border: "none",
+            color: "white",
+            padding: "10px",
+            textAlign: "center",
+            display: "inline-block",
+            fontSize: "16px",
+            margin: "4px 2px",
+            borderRadius: "8px",
+          }}
+        >
+          Buy Now
+        </button>
       </div>
     </Col>
   );

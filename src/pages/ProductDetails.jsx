@@ -6,7 +6,7 @@ import SubSection from "../components/SubSection";
 const ProductDetails = () => {
   var { id } = useParams();
   const newArrivalData = products.filter((item) => item.category === id);
-  const title = newArrivalData.at(0).productName;
+  const title = newArrivalData.at(0).categoryName;
   return (
     <Fragment>
       <SubSection title={title} bgColor="white" productItems={newArrivalData} />
