@@ -3,17 +3,13 @@ import "./slidercard.css";
 
 const SlideCard = ({ title, desc, cover, note }) => {
   return (
-    <Container className="box">
-      <Row>
-        <Col md={6}>
-          <h1>{title}</h1>
-          <p>{desc}</p>
-          <p>{note}</p>
-        </Col>
-        <Col md={6}>
+    <Container style={{ textAlign: "center" }}>
+        <h5>{title}</h5>
+        <p>{desc}</p>
+        <p>{note}</p>
+      {/* <Col md={6}>
           <img src={cover} alt="#" />
-        </Col>
-      </Row>
+        </Col> */}
     </Container>
   );
 };

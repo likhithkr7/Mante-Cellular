@@ -1,4 +1,3 @@
-import phoneslider from "../Images/phone-01.jpg";
 import phone01 from "../Images/15 pro display picture.jpg";
 import phone02 from "../Images/15 pro natural Titanium.png";
 import phone03 from "../Images/15npro black titanium.png";
@@ -54,8 +53,8 @@ export const SliderData = [
     id: 1,
     title: "Giving best by taking good",
     desc: "About - Platform where you can avail your dream product, from our wide range of electronics.",
-    note: "To avail best offers please contact Ph: +91 9148114488",
-    cover: phoneslider,
+    note: "To avail best offers please contact Ph: +91 9148114488.",
+    cover: phone02,
   },
 ];
 
