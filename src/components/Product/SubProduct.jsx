@@ -12,7 +12,7 @@ const Product = ({ title, productItem, addToCart }) => {
       <div className="product-details" style={{ textAlign: "center" }}>
         <h3>{productItem.productName}</h3>
         <div className="price">
-          <h4>Starts @ INR {productItem.price}</h4>
+          <h4>Starts @ {productItem.price} INR</h4>
         </div>
       </div>
     </Col>
