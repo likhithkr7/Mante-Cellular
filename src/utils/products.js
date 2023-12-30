@@ -1,4 +1,4 @@
-import phone01 from "../Images/15 pro display picture.jpg";
+import phone01 from "../Images/15 pro cat.png";
 import phone02 from "../Images/15 pro natural Titanium.png";
 import phone03 from "../Images/15npro black titanium.png";
 import phone04 from "../Images/15 pro white titanium.png";
