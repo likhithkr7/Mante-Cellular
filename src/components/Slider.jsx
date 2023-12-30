@@ -17,7 +17,7 @@ const SliderHome = () => {
     <section className="homeSlide">
       <Container>
         <h1
-          style={{ "text-align": "center", marginTop: "0", fontWeight: "bold" }}
+          style={{ "text-align": "center", marginTop: "0",marginBottom: "0", fontWeight: "bold" }}
         >
           Mante Cellular
         </h1>
