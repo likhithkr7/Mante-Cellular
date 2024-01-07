@@ -38,8 +38,8 @@ import phone37 from "../Images/S21 fe.jpg";
 import phone38 from "../Images/S21 fe.jpg";
 
 const Pro15 = "1,16,000";
-const Plus15 = "73,000";
-const Pro14 = "98,000";
+const Plus15 = "68,000";
+const Pro14 = "97,000";
 const Plus14 = "60,000";
 const S23Ultra = "95,000";
 const S23 = "66,000";
