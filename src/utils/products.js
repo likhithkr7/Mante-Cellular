@@ -37,9 +37,9 @@ import phone36 from "../Images/S20 fe .png";
 import phone37 from "../Images/S21 fe.jpg";
 import phone38 from "../Images/S21 fe.jpg";
 
-const Pro15 = "1,08,000";
+const Pro15 = "99,499";
 const Plus15 = "68,000";
-const Pro14 = "94,499";
+const Pro14 = "79,999";
 const Plus14 = "60,000";
 const S23Ultra = "78,000";
 const S23 = "66,000";
