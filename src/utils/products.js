@@ -38,6 +38,8 @@ import phone37 from "../Images/S21 fe.jpg";
 import phone38 from "../Images/S21 fe.jpg";
 import phone39 from "../Images/IMG_7832.JPG";
 import phone40 from "../Images/IMG_7827.JPG";
+import phone41 from "../Images/IMG_7824.JPG";
+import phone42 from "../Images/IMG_7823.JPG";
 
 const Pro15 = "99,499";
 const Plus15 = "68,000";
@@ -50,6 +52,7 @@ const Zfold = "1,45,000";
 const S20fe = "26,000";
 const S21fe = "31,000";
 const S24Ultra = "1,14,999";
+const Ultra2 = "64,999";
 
 export const SliderData = [
   {
@@ -182,6 +185,22 @@ export const products = [
       category: "38",
       price: S24Ultra,
   },
+  {
+        id: "40",
+        categoryName: "Apple Watch Ultra 2",
+        productName: "Apple Watch Ultra 2",
+        imgUrl: phone41,
+        category: "display",
+        price: Ultra2,
+    },
+    {
+        id: "41",
+        categoryName: "Apple Watch Ultra 2",
+        productName: "Apple Watch Ultra 2",
+        imgUrl: phone42,
+        category: "40",
+        price: Ultra2,
+    },
   {
     id: "14",
     categoryName: "14/14 Plus",
