@@ -167,6 +167,22 @@ export const products = [
     price: Pro14,
   },
   {
+      id: "38",
+      categoryName: "S24 Ultra",
+      productName: "S24 Ultra",
+      imgUrl: phone39,
+      category: "display",
+      price: S24Ultra,
+  },
+  {
+      id: "39",
+      categoryName: "S24 Ultra",
+      productName: "S24 Ultra",
+      imgUrl: phone40,
+      category: "38",
+      price: S24Ultra,
+  },
+  {
     id: "14",
     categoryName: "14/14 Plus",
     productName: "14/14 Plus",
@@ -373,21 +389,5 @@ export const products = [
     imgUrl: phone38,
     category: "36",
     price: S21fe,
-  },
-  {
-    id: "38",
-    categoryName: "S24 Ultra",
-    productName: "S24 Ultra",
-    imgUrl: phone39,
-    category: "display",
-    price: S24Ultra,
-  },
-  {
-      id: "39",
-      categoryName: "S24 Ultra",
-      productName: "S24 Ultra",
-      imgUrl: phone40,
-      category: "38",
-      price: S24Ultra,
-    }
+  }
 ];
