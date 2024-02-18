@@ -36,6 +36,8 @@ import phone35 from "../Images/S20 fe .png";
 import phone36 from "../Images/S20 fe .png";
 import phone37 from "../Images/S21 fe.jpg";
 import phone38 from "../Images/S21 fe.jpg";
+import phone39 from "../Images/IMG_7832.JPG";
+import phone40 from "../Images/IMG_7827.JPG";
 
 const Pro15 = "99,499";
 const Plus15 = "68,000";
@@ -47,6 +49,7 @@ const Zflip = "98,000";
 const Zfold = "1,45,000";
 const S20fe = "26,000";
 const S21fe = "31,000";
+const S24Ultra = "1,14,999";
 
 export const SliderData = [
   {
@@ -371,4 +374,20 @@ export const products = [
     category: "36",
     price: S21fe,
   },
+  {
+    id: "38",
+    categoryName: "S24 Ultra",
+    productName: "S24 Ultra",
+    imgUrl: phone39,
+    category: "display",
+    price: S24Ultra,
+  },
+  {
+      id: "39",
+      categoryName: "S24 Ultra",
+      productName: "S24 Ultra",
+      imgUrl: phone40,
+      category: "38",
+      price: S24Ultra,
+    }
 ];
