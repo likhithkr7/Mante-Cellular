@@ -109,7 +109,7 @@ export const products = [
   {
     id: "05",
     categoryName: "16 Pro/16 Pro Max",
-    productName: "15 Pro Desert Titanium",
+    productName: "16 Pro Desert Titanium",
     imgUrl: phone46,
     category: "01",
     price: Pro16,
