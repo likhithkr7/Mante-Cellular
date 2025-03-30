@@ -1,11 +1,11 @@
-import phone01 from "../Images/15 pro display picture.jpg";
-import phone02 from "../Images/15 pro natural Titanium.png";
-import phone03 from "../Images/15npro black titanium.png";
-import phone04 from "../Images/15 pro white titanium.png";
-import phone05 from "../Images/15 pro blue titanium.png";
-import phone06 from "../Images/15 Display picture.png";
-import phone07 from "../Images/15 black.png";
-import phone08 from "../Images/15 blue.png";
+import phone01 from "../Images/Flip 6 front.jpg";
+import phone02 from "../Images/Flip 6 silver.jpg";
+import phone03 from "../Images/Flip 6 blue.jpg";
+import phone04 from "../Images/Flip 6 mint.jpg";
+import phone05 from "../Images/IMG_2271.JPG";
+import phone06 from "../Images/Fold 6 blue.jpg";
+import phone07 from "../Images/Fold 6 pink.jpg";
+import phone08 from "../Images/Fold 6 silver.webp";
 import phone09 from "../Images/15. Green G.png";
 import phone10 from "../Images/15 yellow.png";
 import phone11 from "../Images/15 pink.png";
@@ -48,9 +48,9 @@ import phone47 from "../Images/16 pro display.jpg";
 import phone48 from "../Images/16 pro natural.jpg";
 import phone49 from "../Images/16 pro white.jpg";
 
-const Pro15 = "89,999";
+const Flip6 = "89,999";
 const Pro16 = "1,04,999";
-const Plus15 = "68,000";
+const Fold6 = "1,47,000";
 const Pro14 = "79,999";
 const Plus14 = "60,000";
 const S23Ultra = "78,000";
@@ -116,44 +116,108 @@ export const products = [
   },
   {
     id: "06",
-    categoryName: "15 Pro/15 Pro Max",
-    productName: "15 Pro/15 Pro Max",
+    categoryName: "Samsung Galaxy Z-Flip 6",
+    productName: "Samsung Galaxy Z-Flip 6",
     imgUrl: phone01,
     category: "display",
-    price: Pro15,
+    price: Flip6,
   },
   {
     id: "07",
-    categoryName: "15 Pro/15 Pro Max",
-    productName: "15 Pro Natural Titanium",
+    categoryName: "Samsung Galaxy Z-Flip 6",
+    productName: "Samsung Galaxy Z-Flip 6 Silver",
     imgUrl: phone02,
     category: "06",
-    price: Pro15,
+    price: Flip6,
   },
   {
     id: "08",
-    categoryName: "15 Pro/15 Pro Max",
-    productName: "15 Pro Black Titanium",
+    categoryName: "Samsung Galaxy Z-Flip 6",
+    productName: "Samsung Galaxy Z-Flip 6 Blue",
     imgUrl: phone03,
     category: "06",
-    price: Pro15,
+    price: Flip6,
   },
   {
     id: "09",
-    categoryName: "15 Pro/15 Pro Max",
-    productName: "15 Pro White Titanium",
+    categoryName: "Samsung Galaxy Z-Flip 6",
+    productName: "Samsung Galaxy Z-Flip 6 Mint",
     imgUrl: phone04,
     category: "06",
-    price: Pro15,
+    price: Flip6,
   },
   {
     id: "10",
-    categoryName: "15 Pro/15 Pro Max",
-    productName: "15 Pro Blue Titanium",
+    categoryName: "Samsung Galaxy Z-Fold 6",
+    productName: "Samsung Galaxy Z-Fold 6",
     imgUrl: phone05,
-    category: "06",
-    price: Pro15,
-  }
+    category: "display",
+    price: Fold6,
+  },
+  {
+    id: "11",
+    categoryName: "Samsung Galaxy Z-Fold 6",
+    productName: "Samsung Galaxy Z-Fold 6 Blue",
+    imgUrl: phone06,
+    category: "10",
+    price: Fold6,
+  },
+  {
+    id: "12",
+    categoryName: "Samsung Galaxy Z-Fold 6",
+    productName: "Samsung Galaxy Z-Fold 6 Pink",
+    imgUrl: phone07,
+    category: "10",
+    price: Fold6,
+  },
+  {
+    id: "13",
+    categoryName: "Samsung Galaxy Z-Fold 6",
+    productName: "Samsung Galaxy Z-Fold 6 Silver",
+    imgUrl: phone08,
+    category: "10",
+    price: Fold6,
+  },
+  {
+    id: "14",
+    categoryName: "Samsung Galaxy S25 Ultra",
+    productName: "Samsung Galaxy S25 Ultra",
+    imgUrl: phone10,
+    category: "display",
+    price: Fold6,
+  },
+  {
+    id: "15",
+    categoryName: "Samsung Galaxy S25 Ultra",
+    productName: "Samsung Galaxy S25 Ultra Silver",
+    imgUrl: phone12,
+    category: "14",
+    price: Fold6,
+  },
+  {
+    id: "16",
+    categoryName: "Samsung Galaxy S25 Ultra",
+    productName: "Samsung Galaxy S25 Ultra Silver",
+    imgUrl: phone11,
+    category: "14",
+    price: Fold6,
+  },
+  {
+    id: "17",
+    categoryName: "Samsung Galaxy S25 Ultra",
+    productName: "Samsung Galaxy S25 Ultra Silver",
+    imgUrl: phone11,
+    category: "14",
+    price: Fold6,
+  },
+  {
+    id: "18",
+    categoryName: "Samsung Galaxy S25 Ultra",
+    productName: "Samsung Galaxy S25 Ultra Silver",
+    imgUrl: phone11,
+    category: "14",
+    price: Fold6,
+  },
 //  {
 //    id: "06",
 //    categoryName: "15/15 Plus",
