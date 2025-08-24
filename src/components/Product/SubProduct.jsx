@@ -8,7 +8,7 @@ import { toast } from "react-toastify";
 const Product = ({ title, productItem, addToCart }) => {
     const router = useNavigate();
     const handelClick = () => {
-        window.location.href = `https://forms.gle/ySWiAKdrBd8KuEcX6`
+        window.location.href = `https://forms.gle/cZzz1LzdpQaxuERL8`
       };
   return (
     <Col md={3} sm={5} xs={10} className="product mtop">
