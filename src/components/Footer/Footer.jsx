@@ -26,7 +26,7 @@ const Footer = () => {
 {/*           <li> */}
 {/*             Near bus stand , New bridge road , above Renukamba clinic(1st floor){" "} */}
 {/*           </li> */}
-          <li>Email: jeevanmanjunath16@gmail.com</li>
+          <li>Email: jeevantheone144@gmail.com</li>
           <li>Phone: +91 9148114488</li>
         </ul>
       </Container>
