@@ -1,8 +1,8 @@
-import phone01 from "../Images/Flip 6 front.jpg";
+import phone01 from "../Images/ZFlip7Display.jpg";
 import phone02 from "../Images/Flip 6 silver.jpg";
 import phone03 from "../Images/Flip 6 blue.jpg";
 import phone04 from "../Images/Flip 6 mint.jpg";
-import phone05 from "../Images/IMG_2271.JPG";
+import phone05 from "../Images/z fold 7.png";
 import phone06 from "../Images/Fold 6 blue.jpg";
 import phone07 from "../Images/Fold 6 pink.jpg";
 import phone08 from "../Images/Fold 6 silver.webp";
@@ -48,9 +48,9 @@ import phone47 from "../Images/16 pro display.jpg";
 import phone48 from "../Images/16 pro natural.jpg";
 import phone49 from "../Images/16 pro white.jpg";
 
-const Flip6 = "89,999";
+const Flip7 = "89,999";
 const Pro16 = "1,04,999";
-const Fold6 = "1,46,999";
+const Fold7 = "1,46,999";
 const S25Ultra = "1,16,999";
 const Plus14 = "60,000";
 const S23Ultra = "78,000";
@@ -116,67 +116,67 @@ export const products = [
   },
   {
     id: "06",
-    categoryName: "Samsung Galaxy Z-Flip 6",
-    productName: "Samsung Galaxy Z-Flip 6",
+    categoryName: "Samsung Galaxy Z-Flip 7",
+    productName: "Samsung Galaxy Z-Flip 7",
     imgUrl: phone01,
     category: "display",
-    price: Flip6,
+    price: Flip7,
   },
   {
     id: "07",
-    categoryName: "Samsung Galaxy Z-Flip 6",
+    categoryName: "Samsung Galaxy Z-Flip 7",
     productName: "Samsung Galaxy Z-Flip 6 Silver",
     imgUrl: phone02,
     category: "06",
-    price: Flip6,
+    price: Flip7,
   },
   {
     id: "08",
-    categoryName: "Samsung Galaxy Z-Flip 6",
+    categoryName: "Samsung Galaxy Z-Flip 7",
     productName: "Samsung Galaxy Z-Flip 6 Blue",
     imgUrl: phone03,
     category: "06",
-    price: Flip6,
+    price: Flip7,
   },
   {
     id: "09",
-    categoryName: "Samsung Galaxy Z-Flip 6",
+    categoryName: "Samsung Galaxy Z-Flip 7",
     productName: "Samsung Galaxy Z-Flip 6 Mint",
     imgUrl: phone04,
     category: "06",
-    price: Flip6,
+    price: Flip7,
   },
   {
     id: "10",
-    categoryName: "Samsung Galaxy Z-Fold 6",
-    productName: "Samsung Galaxy Z-Fold 6",
+    categoryName: "Samsung Galaxy Z-Fold 7",
+    productName: "Samsung Galaxy Z-Fold 7",
     imgUrl: phone05,
     category: "display",
-    price: Fold6,
+    price: Fold7,
   },
   {
     id: "11",
-    categoryName: "Samsung Galaxy Z-Fold 6",
+    categoryName: "Samsung Galaxy Z-Fold 7",
     productName: "Samsung Galaxy Z-Fold 6 Blue",
     imgUrl: phone06,
     category: "10",
-    price: Fold6,
+    price: Fold7,
   },
   {
     id: "12",
-    categoryName: "Samsung Galaxy Z-Fold 6",
+    categoryName: "Samsung Galaxy Z-Fold 7",
     productName: "Samsung Galaxy Z-Fold 6 Pink",
     imgUrl: phone07,
     category: "10",
-    price: Fold6,
+    price: Fold7,
   },
   {
     id: "13",
-    categoryName: "Samsung Galaxy Z-Fold 6",
+    categoryName: "Samsung Galaxy Z-Fold 7",
     productName: "Samsung Galaxy Z-Fold 6 Silver",
     imgUrl: phone08,
     category: "10",
-    price: Fold6,
+    price: Fold7,
   },
   {
     id: "14",
