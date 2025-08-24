@@ -3,9 +3,9 @@ import phone02 from "../Images/zFlip7Black.jpg";
 import phone03 from "../Images/zFlip7Blue.jpg";
 import phone04 from "../Images/zFlip7CoralRed.jpg";
 import phone05 from "../Images/z fold 7.png";
-import phone06 from "../Images/Fold 6 blue.jpg";
-import phone07 from "../Images/Fold 6 pink.jpg";
-import phone08 from "../Images/Fold 6 silver.webp";
+import phone06 from "../Images/zFold7Black.jpg";
+import phone07 from "../Images/zFold7Blue.jpg";
+import phone08 from "../Images/zFold7Silver.jpg";
 import phone09 from "../Images/IMG_2272.JPG";
 import phone10 from "../Images/S25 ultra Silver Blue.jpg";
 import phone11 from "../Images/S25 ultra black.jpg";
@@ -157,7 +157,7 @@ export const products = [
   {
     id: "11",
     categoryName: "Samsung Galaxy Z-Fold 7",
-    productName: "Samsung Galaxy Z-Fold 6 Blue",
+    productName: "Samsung Galaxy Z-Fold 7 Jet Black",
     imgUrl: phone06,
     category: "10",
     price: Fold7,
@@ -165,7 +165,7 @@ export const products = [
   {
     id: "12",
     categoryName: "Samsung Galaxy Z-Fold 7",
-    productName: "Samsung Galaxy Z-Fold 6 Pink",
+    productName: "Samsung Galaxy Z-Fold 7 Blue Shadow",
     imgUrl: phone07,
     category: "10",
     price: Fold7,
@@ -173,7 +173,7 @@ export const products = [
   {
     id: "13",
     categoryName: "Samsung Galaxy Z-Fold 7",
-    productName: "Samsung Galaxy Z-Fold 6 Silver",
+    productName: "Samsung Galaxy Z-Fold 7 Silver Shadow",
     imgUrl: phone08,
     category: "10",
     price: Fold7,
